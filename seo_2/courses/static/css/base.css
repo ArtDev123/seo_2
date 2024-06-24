@@ -323,5 +323,7 @@ ul#course-modules li:hover {
 input.login-input {
     margin:0;
     padding: 0;
+    font-size: 24px;
+    width: 100px;
 }
 
